@@ -59,7 +59,7 @@ export async function createIssue(
     return {
       ok: false,
       kind: "server",
-      message: "Server unavailable. Try again later. dddd",
+      message: "Server unavailable. Try again later.",
     };
   } finally {
     clearTimeout(timeoutId);

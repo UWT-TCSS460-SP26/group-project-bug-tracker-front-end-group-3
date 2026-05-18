@@ -1,10 +1,5 @@
 # Bug Tracker — Group 3 (Frontend)
 
-# Deployment URL
-https://group-project-bug-tracker-front-end-group-3-9dhrg5gp7.vercel.app/
-
-
-
 Next.js app for submitting bug reports to the TCSS 460 Group 3 backend API.
 
 ## Backend API
@@ -31,8 +26,6 @@ NEXT_PUBLIC_API_BASE_URL=https://group-project-backend-group-3-1.onrender.com
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
-
 ## Scripts
 
 | Command      | Description              |
@@ -52,8 +45,4 @@ Restart the dev server after changing `.env`.
 
 ## CI
 
-GitHub Actions runs on push/PR to `main`: `pnpm install --frozen-lockfile`, `pnpm lint`, `pnpm build`.
-
-## Stack
-
-- Next.js 16 · React 19 · TypeScript · Tailwind CSS v4
+GitHub Actions runs on push/PR to `main`: `npm ci`, `npm run lint`, `npm run build`.
