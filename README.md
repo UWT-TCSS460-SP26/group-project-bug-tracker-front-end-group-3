@@ -1,5 +1,8 @@
 # Bug Tracker — Group 3 (Frontend)
 
+# Deployment URL
+https://group-project-bug-tracker-front-end-group-3-9dhrg5gp7.vercel.app/
+
 Next.js app for submitting bug reports to the TCSS 460 Group 3 backend API.
 
 ## Backend API
