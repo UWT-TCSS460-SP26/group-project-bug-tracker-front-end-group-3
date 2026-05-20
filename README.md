@@ -49,3 +49,15 @@ Restart the dev server after changing `.env`.
 ## CI
 
 GitHub Actions runs on push/PR to `main`: `npm ci`, `npm run lint`, `npm run build`.
+
+## Upstream Partner Information (Group 2)
+
+This frontend consumes the API provided by **Group 2**.
+
+### Partner Resources
+
+- **Partner-facing README:** https://github.com/UWT-TCSS460-SP26/group-project-backend-group-2-3
+- **API Base URL:** https://group-2-9289.onrender.com
+- **OpenAPI Spec:** https://group-2-9289.onrender.com/api-docs
+- **Bug Tracker FE:** https://bug-tracker-g2.vercel.app/
+- **Required Auth Audience:** group-2-api
