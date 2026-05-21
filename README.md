@@ -60,4 +60,4 @@ This frontend consumes the API provided by **Group 2**.
 - **API Base URL:** https://group-2-9289.onrender.com
 - **OpenAPI Spec:** https://group-2-9289.onrender.com/api-docs
 - **Bug Tracker FE:** https://bug-tracker-g2.vercel.app/
-- **Required Auth Audience:** group-2-api
+- **Required Auth Audience:** group-3-api
